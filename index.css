@@ -11,12 +11,9 @@ h1, h2 {
     font-size: 1.5em;
   }
   
-  .quote {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 75;
-    color: white;
-    text-shadow: 1px 1px 2px black;
-    font-size: 2em;
-    text-align: center;
-    margin-top: 2em;
-  }
+  .fit-picture {
+    width: 450px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;    
+}
