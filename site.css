@@ -3,7 +3,7 @@
 }
 html {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 2rem;
+  font-size: inherit;
   background: rgb(25, 119, 142);
 }
 
